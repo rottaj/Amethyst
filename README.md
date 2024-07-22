@@ -14,12 +14,12 @@
 </div>
 
 ## About the project
-Amethyst is a Command & Control (c2) written in Golang, C, and Qt C++. It was built
+Amethyst is a Command & Control (c2) written in Golang, C, and Qt (C++). It was built
 as a side project to learn more about C&C frameworks and their development techniques. 
-Development on this project has been discontinued for several reasons. 
-Primarily, I have shifted focus to other interests and new project ideas. 
-Additionally, transitioning to an arm processor and dependencies on Qt for Arm, which require 
-XCode and iCloud login on apple devices, presented obstacles to continued development. 
+I've stopped working on this project currently as I've shifted focus to other interests and new projects.. along with 
+transitioning to a new processor, and dependencies for Qt on Arm (which require 
+XCode and iCloud login) present obstacles for continued development. 
+
 
 ## Agent
 The agent stub is written in C. It uses NTAPI (wrapped) functions to interact with the WinAPI. There is no indirect / direct syscall implementation. Data is transported via wininet, with GET requests containing the base64 encoded makeup (json) of the agent output within the URI. 
