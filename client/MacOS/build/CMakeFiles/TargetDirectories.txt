@@ -1,0 +1,2 @@
+/Users/j4ck/Documents/Projects/Amethyst/client/MacOS/build/CMakeFiles/edit_cache.dir
+/Users/j4ck/Documents/Projects/Amethyst/client/MacOS/build/CMakeFiles/rebuild_cache.dir
