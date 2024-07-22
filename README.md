@@ -37,12 +37,12 @@ The client is written in Qt C++. There is no login or authentication setup. The 
 ## Demo
 #### Agents
 <div align="center">
-  <img src="assets/amethyst_1.png" width="70%" /><br />
+  <img src="assets/amethyst_1.png" width="75%" /><br />
 </div>
 
 #### Listeners 
 <div align="center">
-  <img src="assets/amethyst_2.png" width="70%" /><br />
+  <img src="assets/amethyst_2.png" width="75%" /><br />
 </div>
 
 
