@@ -7,7 +7,7 @@
   <br/>
 
   <p><i>Amethyst is a Command & Control (c2) created by <a href="https://github.com/rottaj">@rottaj</a>.</i></p>
-  <p><i>This is a side project C2 and while it is operational, please note that development has been discontinued.</i></p>
+  <p><i>This is a side project C2 and only has four commands ls, cd, dir, and shell. That's it! POOF PWNED! The other commands shown are not included in the codebase. Please note that development has been discontinued.</i></p>
 
 > :warning: The use of this tool for malicious purposes is illegal and unethical. Always ensure that you have explicit permission to use this tool in any environment.
 
@@ -15,7 +15,7 @@
 
 ## About the project
 Amethyst is a Command & Control (c2) written in Golang, C, and Qt (C++). It was built
-as a side project to learn more about C&C frameworks and their development techniques. 
+as a side project to learn more about C&C frameworks and their development techniques.
 I've stopped working on this project currently as I've shifted focus to other interests and new projects.. along with 
 transitioning to a new processor, and dependencies for Qt on Arm (which require 
 XCode and iCloud login) present obstacles for continued development. 
